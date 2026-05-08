@@ -2,7 +2,7 @@
 
 # dotenv
 .env
-
+media
 # virtualenv
 .venv
 venv/
